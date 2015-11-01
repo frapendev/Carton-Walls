@@ -3,63 +3,63 @@
 	[ 
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Blue%20Layers.png",
-			"name": "Blue Layers"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/blue.png",
+			"name": "blue"
 		},	
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Blue%20Waves.png",
-			"name": "Blue Waves"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/blue_layers.png",
+			"name": "blue_layers"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Blue.png",
-			"name": "Blue"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/blue_waves.png",
+			"name": "blue_waves"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Circles.png",
-			"name": "Circles"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/circles.png",
+			"name": "circles"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Green%20Waves.png",
-			"name": "Green Waves"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/green.png",
+			"name": "green"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Green.png",
-			"name": "Green"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/green_waves.png",
+			"name": "green_waves"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Orange%20Layers.png",
-			"name": "Orange Layers"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/orange.png",
+			"name": "orange"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Orange.png",
-			"name": "Orange"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/orange_layers.png",
+			"name": "orange_layers"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Red%20Blue%20Grey.png",
-			"name": "Red Blue Grey"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/red_blue_grey.png",
+			"name": "red_blue_grey"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Red%20Square.png",
-			"name": "Red Square"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/red_square.png",
+			"name": "red_square"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Teal.png",
-			"name": "Teal"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/teal.png",
+			"name": "teal"
 		},
 		{
 			"author": "Francesco Pennella",
-			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/Yellow.png",
-			"name": "Yellow"
+			"url": "https://raw.githubusercontent.com/frapendev/Carton-Walls/master/yellow.png",
+			"name": "yellow"
 		}
 	]
 }

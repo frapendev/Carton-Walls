@@ -1,5 +1,5 @@
 LIST OF THE ICONS AVAILABLE IN CARTON
-Last update November 15th, 2015
+Last update November 22th, 2015
 
 - DRAWER
 drawer1
@@ -12,6 +12,12 @@ drawer7
 drawer8
 drawer9
 drawer10
+drawer11
+drawer12
+drawer13
+drawer14
+drawer15
+drawer_hand
 
 - FOLDER
 folder
@@ -81,6 +87,8 @@ authy
 authy_alt
 autodesk_sketchbook
 automate
+automate_2
+avast
 avg
 az_screen_recorder
 barcode_scanner
@@ -92,6 +100,7 @@ beatport_alt
 bible
 bing
 bing_alt
+blackmart
 blogger
 blogger_alt
 box
@@ -99,6 +108,7 @@ box_alt
 browser
 browser_alt1
 browser_alt2
+browser_cm
 cabinet
 calculator_blue
 calculator_green
@@ -141,6 +151,7 @@ clock_teal
 cloud_print
 cm_browser
 cm_security
+color_note
 comedy_central
 comedy_central_alt
 contacts
@@ -159,10 +170,13 @@ dialer_purple
 dialer_red
 dialer_teal
 documents
-documents_alt
+documents_google
+documents_google_alt
 dolphin_browser
 dolphin_browser_alt
 download
+
+
 drippler
 drippler_alt
 dropbox
@@ -190,6 +204,9 @@ feedlyreader
 fenix
 file_commander
 file_commander_alt
+file_manager_cm
+file_manager_cm_alt
+financius
 firefox
 flashify
 flashify_alt
@@ -206,6 +223,8 @@ fx_file_explorer
 gallery
 gallery_alt
 gallery_alt2
+gallery_cm
+gallery_cm_alt
 gmail
 gmail_alt1
 gmail_alt2
@@ -273,6 +292,10 @@ hangout_alt2
 hangout_dialer
 hangout_dialer_alt
 hangout_dialer_alt2
+here_maps
+imagine_for_instagram
+imagine_for_instagram_alt
+imagine_for_instagram_alt2
 imdb
 imdb_alt
 imdb_alt2
@@ -287,6 +310,7 @@ instagram_alt2
 jkwalls
 jkwalls_alt
 juicessh
+kakao_talk
 keep
 keep_alt
 kik
@@ -335,6 +359,7 @@ ninegag_tv
 nova_launcher
 nova_launcher_settings
 npr_one
+office
 onepassword
 opera
 palabre
@@ -342,6 +367,7 @@ parkmobile
 path
 path_alt
 paypal
+periodic_table
 periscope
 periscope_alt
 phone_blue
@@ -384,6 +410,7 @@ pocket_alt
 pocket_casts
 polycon
 portal
+poweramp
 psiphon
 pushbullet
 quickpic
@@ -415,6 +442,14 @@ skype
 slide_for_reddit
 slides
 slides_alt
+sms
+sms_blue
+sms_blue_grey
+sms_indigo
+sms_orange
+sms_purple
+sms_red
+sms_teal
 snapchat
 snapchat_alt
 snapseed
@@ -441,6 +476,7 @@ telegram_alt
 telegram_alt2
 teslaunread_nova_launcher
 the_terra_collection
+themes_cm
 themer
 tim_games
 tim_music
@@ -449,9 +485,13 @@ tim_vision
 timely
 tinder
 titanium_backup
+train_timetable
+transit_app
 trenitalia
 trigger
 trigger_alt
+tripadvisor
+tripadvisor_alt
 tumblr
 tumblr_alt
 tunein_radio
@@ -480,6 +520,7 @@ we_chat_alt
 weather_timeline
 whatsapp
 whatsapp_alt
+whos_down
 wikipedia
 wikipedia_beta
 wolfram_alpha

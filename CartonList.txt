@@ -105,6 +105,8 @@ blogger
 blogger_alt
 box
 box_alt
+boxer_email
+boxer_email_alt
 browser
 browser_alt1
 browser_alt2
@@ -116,6 +118,7 @@ calculator_orange
 calculator_red
 camera
 camera_alt
+camera_cm
 camera_fv5
 camera_fv5_alt
 camera360
@@ -151,6 +154,7 @@ clock_teal
 cloud_print
 cm_browser
 cm_security
+codecheck
 color_note
 comedy_central
 comedy_central_alt
@@ -175,8 +179,6 @@ documents_google_alt
 dolphin_browser
 dolphin_browser_alt
 download
-
-
 drippler
 drippler_alt
 dropbox
@@ -286,6 +288,7 @@ google_translate_alt3
 google_wallet
 greenify
 greenify_alt
+gtasks
 hangout
 hangout_alt
 hangout_alt2
@@ -328,6 +331,10 @@ lollydrop
 manual_camera
 manual_camera_alt
 material_power_menu
+material_terminal
+material_terminal_alt
+mega
+mega_alt
 memrise
 meter
 mi_fit
@@ -453,6 +460,7 @@ sms_teal
 snapchat
 snapchat_alt
 snapseed
+snapseed_alt
 solid_explorer
 solid_explorer_alt
 sony_album
@@ -464,6 +472,8 @@ spotify
 spotify_alt
 steam
 street_view
+sunrise_calendar
+sunrise_calendar_alt
 sync_for_reddit
 sync_me
 talon
@@ -474,6 +484,7 @@ teamviewer
 telegram
 telegram_alt
 telegram_alt2
+terminal
 teslaunread_nova_launcher
 the_terra_collection
 themes_cm

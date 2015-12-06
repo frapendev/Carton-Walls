@@ -1,5 +1,5 @@
 LIST OF THE ICONS AVAILABLE IN CARTON
-Last update November 30th, 2015
+Last update December 06th, 2015
 
 - DRAWER
 drawer1
@@ -53,6 +53,7 @@ amazon_alt2
 amazon_drive
 amazon_music
 amber_weather
+amber_weather_alt
 ampere
 ampere_alt
 amplify
@@ -111,16 +112,20 @@ browser
 browser_alt1
 browser_alt2
 browser_cm
+browser_lg
 cabinet
 calculator_blue
 calculator_green
 calculator_orange
 calculator_red
+calculator_lg
 camera
 camera_alt
 camera_cm
+camera_cardboard
 camera_fv5
 camera_fv5_alt
+camera_lg
 camera360
 cardboard
 cardboard_design_lab
@@ -161,6 +166,7 @@ comedy_central_alt
 contacts
 contacts_alt1
 contacts_alt2
+contacts_lg
 cpuz
 cpuz_alt
 device_manager
@@ -173,12 +179,14 @@ dialer_orange
 dialer_purple
 dialer_red
 dialer_teal
+dictionary_lg
 documents
 documents_google
 documents_google_alt
 dolphin_browser
 dolphin_browser_alt
 download
+download_lg
 drippler
 drippler_alt
 dropbox
@@ -187,8 +195,11 @@ duolingo
 easy_backup
 ebay
 ebay_alt
+editor_video_lg
 email
 email_alt
+email_lg
+email_lg_alt
 es_file_explorer
 es_file_explorer_alt
 evernote
@@ -208,6 +219,8 @@ file_commander
 file_commander_alt
 file_manager_cm
 file_manager_cm_alt
+file_manager_lg
+file_manager_lg_alt
 financius
 firefox
 flashify
@@ -217,6 +230,17 @@ flipboard
 flipboard_alt
 flynx
 focus
+folder
+folder_bookmarks
+folder_docs
+folder_email
+folder_games
+folder_google
+folder_music
+folder_photo
+folder_shop
+folder_social
+folder_video
 foursquare
 fragment
 franco_kernel
@@ -255,7 +279,6 @@ google_fit
 google_fit_alt
 google_gesture_search
 google_googles
-google_googles_alt
 google_handwriting
 google_keyboard
 google_maps
@@ -322,6 +345,8 @@ kingdom_rush_frontiers
 kingdom_rush_origins
 kmz
 layout_instagram
+lg_voice_mate
+lg_voice_recorder
 line
 link2sd
 link2sd_plus
@@ -346,6 +371,7 @@ moon_reader_alt
 moonshine
 moovit
 moovit_alt
+music_lg
 musixmatch
 musixmatch_alt
 mx_player
@@ -363,6 +389,7 @@ news_and_weather_alt
 ninegag
 ninegag_alt
 ninegag_tv
+notebook_lg
 nova_launcher
 nova_launcher_settings
 npr_one
@@ -409,6 +436,7 @@ play_newstands_alt
 play_store
 play_store_alt1
 play_store_alt2
+play_store_alt3
 plex
 plus
 plus_alt
@@ -420,12 +448,17 @@ portal
 poweramp
 psiphon
 pushbullet
+quickmemo_lg
+quickmemo_lg_alt
 quickpic
+quickremote_lg
+quickremote_lg_alt
 rar
 rec
 relay_for_reddit
 retrica
 root_explorer
+santa_tracker
 screen_recorder
 screener
 sd_maid
@@ -433,6 +466,8 @@ settings
 settings_alt1
 settings_alt2
 settings_alt3
+settings_lg
+settings_lg_alt
 sevendigital
 seventeen_track
 shazam
@@ -449,6 +484,7 @@ skype
 slide_for_reddit
 slides
 slides_alt
+smartworld_lg
 sms
 sms_blue
 sms_blue_grey
@@ -480,6 +516,7 @@ talon
 tapatalk
 tasker
 tasker_alt
+tasks_lg
 teamviewer
 telegram
 telegram_alt
@@ -496,6 +533,7 @@ tim_vision
 timely
 tinder
 titanium_backup
+today_calendar
 train_timetable
 transit_app
 trenitalia
@@ -515,6 +553,7 @@ uber
 uc_browser
 unibapp
 unibox
+update_center_lg
 viber
 viber_alt
 vine
@@ -528,6 +567,7 @@ vysor
 waze
 we_chat
 we_chat_alt
+weather_lg
 weather_timeline
 whatsapp
 whatsapp_alt

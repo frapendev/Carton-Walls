@@ -45,6 +45,7 @@ aftership
 agar_io
 airdroid
 airdroid_alt
+aliexpress
 allcast
 amaze_file_manager
 amazon
@@ -78,6 +79,8 @@ any_do
 appchat
 apphunt
 applicationreader
+appy_geek
+appy_geek_alt
 aptoide
 aptoide_alt
 asos
@@ -114,11 +117,13 @@ browser_alt2
 browser_cm
 browser_lg
 cabinet
+calc_plus
 calculator_blue
 calculator_green
 calculator_orange
 calculator_red
 calculator_lg
+calendar_lg
 camera
 camera_alt
 camera_cm
@@ -156,6 +161,7 @@ clock_indigo
 clock_orange
 clock_red
 clock_teal
+clock_lg
 cloud_print
 cm_browser
 cm_security
@@ -251,6 +257,7 @@ gallery_alt
 gallery_alt2
 gallery_cm
 gallery_cm_alt
+gallery_lg
 gmail
 gmail_alt1
 gmail_alt2
@@ -333,6 +340,8 @@ ingress
 instagram
 instagram_alt
 instagram_alt2
+instapaper
+instapaper_alt
 jkwalls
 jkwalls_alt
 juicessh
@@ -358,6 +367,8 @@ manual_camera_alt
 material_power_menu
 material_terminal
 material_terminal_alt
+medium_reader
+medium_reader_alt
 mega
 mega_alt
 memrise
@@ -394,6 +405,7 @@ nova_launcher
 nova_launcher_settings
 npr_one
 office
+one_calculator
 onepassword
 opera
 palabre
@@ -448,11 +460,14 @@ portal
 poweramp
 psiphon
 pushbullet
+qksms
+qksms_alt
 quickmemo_lg
 quickmemo_lg_alt
 quickpic
 quickremote_lg
 quickremote_lg_alt
+radio_lg
 rar
 rec
 relay_for_reddit
@@ -462,6 +477,8 @@ santa_tracker
 screen_recorder
 screener
 sd_maid
+series_guide
+series_guide_alt
 settings
 settings_alt1
 settings_alt2
@@ -508,12 +525,15 @@ spotify
 spotify_alt
 steam
 street_view
+studio_lg
 sunrise_calendar
 sunrise_calendar_alt
+swarm
 sync_for_reddit
 sync_me
 talon
 tapatalk
+task_manager_lg
 tasker
 tasker_alt
 tasks_lg
@@ -564,6 +584,7 @@ vsco_cam
 vsco_cam_alt
 vsco_cam_alt2
 vysor
+wakelock_detector
 waze
 we_chat
 we_chat_alt
